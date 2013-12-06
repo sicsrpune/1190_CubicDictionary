@@ -1,0 +1,6 @@
+hi -hallo <br/><br/>
+how are you-wie geht's? <br/><br/>
+gladly-gern <br/><br/>
+summer-der Sommer <br/><br/>
+autum-der Herbst <br/><br/>
+winter-der Winter

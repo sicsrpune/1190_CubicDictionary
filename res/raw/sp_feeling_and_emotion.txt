@@ -1,0 +1,12 @@
+		SENTIMENTO Y EMOCI&Oacute;<br/><br/>
+
+emotion- la emoci&oacute;n <br/><br/>
+mood- el humor <br/><br/>
+happy- feliz <br/><br/>
+sad- triste <br/><br/>
+excited- enthusuasmado <br/><br/>
+joy- la alegria <br/><br/>
+love- el amor <br/><br/>
+hate- el odio <br/><br/>
+angry- enfadado <br/><br/>
+to feel- sentirse 

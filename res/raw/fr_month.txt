@@ -1,0 +1,14 @@
+		MOIS<br/><br/>
+ 
+January - janvier <br/><br/>
+Febuary - F&egrave;vrier <br/><br/>
+March - mars <br/><br/>
+April - avril <br/><br/>
+May - peut <br/><br/>
+June - juin <br/><br/>
+July - juillet <br/><br/>
+August - ao&ucirc;t <br/><br/>
+September - septembre <br/><br/>
+October - octobre <br/><br/>
+November - novembre <br/><br/>
+December - d&eacute;cembre

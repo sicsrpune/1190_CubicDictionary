@@ -1,0 +1,15 @@
+		TRANSPORTIEREN<br/><br/>
+public transport-die &ouml;ffentlichen Verehrsmittel <br/><br/>
+vehicle- das Fahrzeug <br/><br/>
+bus-der Bus <br/><br/>
+train-der Zug <br/><br/>
+train station-der Bahnhof <br/><br/>
+ticket-die Fahrkarte <br/><br/>
+platform-der Bahnsteig <br/><br/>
+underground-due U-Bahn <br/><br/>
+passenger-der Fahrgast <br/><br/>
+stop-die Haltestelle <br/><br/>
+to stand-stehen <br/><br/>
+car-das Auto <br/><br/>
+aeroplane-das Flugzeug <br/><br/>
+

@@ -1,0 +1,12 @@
+		RELACIONES<br/><br/>
+
+family- la familia <br/><br/>
+parents- los padres <br/><br/>
+mother- la madre <br/><br/>
+father- el padre <br/><br/>
+childern- los hijos <br/><br/>
+daughter- la hija <br/><br/>
+son- el hijo <br/><br/>
+brother- el hermano <br/><br/>
+sister- la hermana <br/><br/>
+together- juntos

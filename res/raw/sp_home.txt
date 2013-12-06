@@ -1,0 +1,14 @@
+		CASA<br/><br/>
+flat- el piso <br/><br/>
+house- la casa <br/><br/>
+room- la habitaci&oacute;n <br/><br/>
+kitchen- la cocina <br/><br/>
+bathroom- el ba&ntilde;o <br/><br/>
+bedroom- el dormitorio <br/><br/>
+livingroom- el sal&oacute;n <br/><br/>
+toilet- el servicio <br/><br/>
+to live- vivir <br/><br/>
+at home- en casa <br/><br/>
+terrace- terraza <br/><br/>
+coumpound-compuesto <br/><br/>
+playground-patio 

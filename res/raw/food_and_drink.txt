@@ -1,0 +1,20 @@
+		ESSEN<br/><br/>
+drink-das Getr&auml;nk <br/><br/>
+fruit-das Obst <br/><br/>
+mineral water-das Mineralwasser <br/><br/>
+juice-das Saft <br/><br/>
+milk-die Milch <br/><br/>
+banana-die Banane <br/><br/>
+apple-der Apfel <br/><br/>
+carrot-die Karotte <br/><br/>
+potato-die Kartoffel <br/><br/>
+lemon-die Zitrone <br/><br/>
+tomato-die Tomate <br/><br/>
+cucumber-die Gurke <br/><br/>
+ter-der Tee <br/><br/>
+wine-der Wein <br/><br/>>
+beer-Das Bier <br/><br/>
+coffee-Der Kaffee <br/><br/>
+to drink-trinken <br/><br/>
+to eat-essen <br/><br/>
+

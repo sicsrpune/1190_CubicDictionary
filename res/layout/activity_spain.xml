@@ -1,0 +1,70 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".German"
+    android:background="#151515" >
+
+     <Button
+         android:id="@+id/btnvocab"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_below="@+id/imageView1"
+         android:layout_centerHorizontal="true"
+         android:layout_marginTop="16dp"
+         android:background="#1C1C1C"
+         android:text="@string/Vocabulary"
+         android:textColor="#CEF6F5" />
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="100dp"
+        android:layout_height="70dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignRight="@+id/btnvocab"
+        android:layout_marginTop="24dp"
+        android:contentDescription="@string/Spain"
+        android:src="@drawable/spain_flaj" />
+
+    <Button
+        android:id="@+id/btnhear"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/btninfo"
+        android:layout_alignRight="@+id/btnvocab"
+        android:layout_below="@+id/btninfo"
+        android:layout_marginTop="14dp"
+        android:background="#1C1C1C"
+        android:text="@string/Hear"
+        android:textColor="#CEF6F5" />
+
+    <Button
+        android:id="@+id/btninfo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/btnvocab"
+        android:layout_below="@+id/imageView1"
+        android:layout_marginTop="19dp"
+        android:background="#1C1C1C"
+        android:text="@string/Information"
+        android:textColor="#CEF6F5" />
+
+ 
+
+    <Button
+        android:id="@+id/btnexit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/btnhear"
+        android:layout_alignRight="@+id/btnhear"
+        android:layout_below="@+id/btnhear"
+        android:layout_marginTop="21dp"
+        android:background="#1C1C1C"
+        android:text="@string/Exit"
+        android:textColor="#CEF6F5" />
+
+</RelativeLayout>

@@ -1,0 +1,8 @@
+		WOCHENTAGE<br/><br/>
+sunday-Sonntag <br/><br/>
+monday-Montag <br/><br/>
+tuesday-Dienstag <br/><br/>
+wednesday-Mittwoch <br/><br/>
+thursday-Donnerstag <br/><br/>
+friday-Freitag <br/><br/>
+saturday-Samstag <br/><br/>

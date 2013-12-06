@@ -1,0 +1,15 @@
+		M&Uuml;BEL<br/><br/>
+sofa-das Sofa <br/><br/>
+lamp-die Lampe <br/><br/>
+Bookshelf-das B&uuml;cherregal <br/><br/>
+writing table-der Schreibtisch <br/><br/>
+fan-der Ventilator <br/><br/>
+AC-die Klimaanlage <br/><br/>
+clock-die Uhr <br/><br/>
+Bed-das Bett <br/><br/>
+cupboard-der Schrank <br/><br/>
+mirror-der Spiegel <br/><br/>
+blanket-der Deckel <br/><br/>
+gas-der Herd <br/><br/>
+oven-das Ofen <br/><br/>
+washbasin-das Waschbecken <br/><br/>

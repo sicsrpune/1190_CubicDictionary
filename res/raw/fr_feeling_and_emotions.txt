@@ -1,0 +1,16 @@
+		SENSATION <br/><br/>
+
+emotion - l' &egrave;motion <br/><br/>
+mood - l' humeur <br/><br/>
+happy - heureux <br/><br/>
+sad - triste <br/><br/>
+excited - enthousiaste <br/><br/>
+joy - la joie <br/><br/>
+love - l' amour <br/><br/>
+hate - la haine <br/><br/>
+angry - en col&egrave;re <br/><br/>
+to feel - se sentir <br/><br/>
+confused - embrouill&egrave; <br/><br/>
+silent - silencieux 
+
+

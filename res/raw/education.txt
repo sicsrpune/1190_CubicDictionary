@@ -1,0 +1,16 @@
+		BILDUNG <br/><br/>
+
+classroom-das Klassenzimmer <br/><br/>
+board-die Tafel <br/><br/>
+desk-das Pult <br/><br/>
+rubber-der Radiergummi <br/><br/>
+pen-der Stift <br/><br/>
+ruler-das Lineal <br/><br/>
+fountain pen-der Kuli <br/><br/>
+example-das Beispiel <br/><br/>
+break-die Pause <br/><br/>
+worksheet-das Arbeitsblatt <br/><br/>
+sharpener-der Spitzer <br/><br/>
+chair-der Stuhl <br/><br/>
+Tv-der Fernseher <br/><br/>
+duster-der Schwamm <br/><br/>

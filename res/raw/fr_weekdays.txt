@@ -1,9 +1,0 @@
-		SEMAINE<br/><br/>
-
-Sunday - dimanche <br/><br/>
-Monday - lundi <br/><br/>
-Tuesday - mardi <br/><br/>
-Wednesday - mercredi <br/><br/>
-Thursday - jeudi <br/><br/>
-Friday - vendredi <br/><br/>
-Saturday - samedi

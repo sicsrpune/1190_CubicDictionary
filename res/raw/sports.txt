@@ -1,0 +1,13 @@
+		SPORT <br/><br/>
+sport-der Sport <br/><br/>
+football-der Fu&szligball <br/><br/>
+player-der Spieler(m) <br/><br/>
+player-die Spielerin(f) <br/><br/>
+refree-der Schiedsrichter <br/><br/>
+goal-das Tor <br/><br/>
+athletics-die Leichtathleik <br/><br/>
+training-das Training <br/><br/>
+coach-der Trainer(m) <br/><br/>
+coach-die Trainerin(f) <br/><br/>
+fit-fit <br/><br/>
+to win-gewinnen <br/><br/>

@@ -1,0 +1,23 @@
+		NOURRITURE<br/><br/>
+
+to eat - &agrave; manger <br/><br/>
+to drink - &agrave; boire <br/><br/>
+fruit - le fruit <br/><br/>
+banana - la banane <br/><br/>
+apple - la pomme <br/><br/>
+carrot - la carotte <br/><br/>
+potato - la pomme de terre <br/><br/>
+lemon - le citron <br/><br/>
+
+		BOISSON<br/><br/>
+
+drink - la boisson <br/><br/>
+mineral water - l' eau min&eacute;rale <br/><br/>
+juice - le jus <br/><br/>
+coffee - le caf&eacute; <br/><br/>
+milk - le lait <br/><br/>
+tea - le the&eacute; <br/><br/>
+to drink - boire <br/><br/>
+wine - le vin <br/><br/>
+beer - la bi&egrave;re 
+

@@ -1,0 +1,18 @@
+		TRANSPORTER<br/><br/>
+
+to travel - voyager <br/><br/>
+bus - le bus <br/><br/>
+train - le train <br/><br/>
+car - voiture <br/><br/>
+ship - exp&eacute;dier <br/><br/>
+aeroplane - avion <br/><br/>
+flight - vol <br/><br/>
+train station - la gare <br/><br/>
+bus station - Station de bus <br/><br/>
+ticket - le billet <br/><br/>
+platform - le quai <br/><br/>
+underground - me m&eacute;tro <br/><br/> 
+passenger - le passager <br/><br/>
+stop - la station  <br/><br/>
+to stand - rester debout <br/><br/>
+good journey - bon jouney

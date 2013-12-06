@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.cubic_dictionary"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="17" />
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/cubic"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.cubic_dictionary.CubicFlash"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.cubic_dictionary.Cubic"
+            android:label="@string/title_activity_cubic" >
+        </activity>
+        <activity
+            android:name="com.example.cubic_dictionary.German"
+            android:label="@string/title_activity_german" >
+        </activity>
+        <activity
+            android:name="com.example.cubic_dictionary.French"
+            android:label="@string/title_activity_french" >
+        </activity>
+        <activity
+            android:name="com.example.cubic_dictionary.Spain"
+            android:label="@string/title_activity_spain" >
+        </activity>
+        <activity
+            android:name="com.example.cubic_dictionary.DeutschVocabulary"
+            android:label="@string/title_activity_deutsch_vocabulary" >
+        </activity>
+        <activity
+            android:name="com.example.cubic_dictionary.FranzozischVocabulaire"
+            android:label="@string/title_activity_franzozisch_vocabulaire" >
+        </activity>
+        <activity
+            android:name="com.example.cubic_dictionary.SpanischVocabulary"
+            android:label="@string/title_activity_spanisch_vocabulary" >
+        </activity>
+        <activity
+            android:name="com.example.cubic_dictionary.SearchGerman"
+            android:label="@string/title_activity_search_words" >
+        </activity>
+        <activity
+            android:name="com.example.cubic_dictionary.SearchFrench"
+            android:label="@string/title_activity_search_french" >
+        </activity>
+        <activity
+            android:name="com.example.cubic_dictionary.SearchSpanish"
+            android:label="@string/title_activity_search_spanish" >
+        </activity>
+        <activity
+            android:name="com.example.cubic_dictionary.ListenGerman"
+            android:label="@string/title_activity_listen_german" >
+        </activity>
+        <activity
+            android:name="com.example.cubic_dictionary.ListenFrench"
+            android:label="@string/title_activity_listen_french" >
+        </activity>
+        <activity
+            android:name="com.example.cubic_dictionary.ListenSpanish"
+            android:label="@string/title_activity_listen_spanish" >
+        </activity>
+        <activity
+            android:name="com.example.cubic_dictionary.GermanInformation"
+            android:label="@string/title_activity_german_information" >
+        </activity>
+        <activity
+            android:name="com.example.cubic_dictionary.FrenchInformation"
+            android:label="@string/title_activity_french_information" >
+        </activity>
+        <activity
+            android:name="com.example.cubic_dictionary.SpainInformation"
+            android:label="@string/title_activity_spain_information" >
+        </activity>
+    </application>
+
+</manifest>

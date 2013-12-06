@@ -1,0 +1,10 @@
+		MEDIO AMBIENTE<br/><br/>
+Environment-medio ambiente <br/><br/>
+season - la estaci&oacute;n <br/><br/>
+spring - la primavera <br/><br/>
+summer - el verano <br/><br/>
+autumn - el oto&ntilde;o <br/><br/>
+winter - el invierno <br/><br/>
+monnth - el mes <br/><br/>
+rainy season - la temporada de lluvias <br/><br/>
+dry season - la estaci&oacute;n seca <br/><br/>

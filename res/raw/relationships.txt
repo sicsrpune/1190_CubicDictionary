@@ -1,0 +1,11 @@
+		BEZIEHUNGEN<br/><br/>
+family-die Familie <br/><br/>
+parents-die Eltern <br/><br/>
+mother-die Mutter <br/><br/>
+father-der Vater <br/><br/>
+children-die Kinder <br/><br/>
+daughter-die Tochter <br/><br/>
+son-der Sohn <br/><br/>
+borther-der Bruder <br/><br/>
+sister-die Schwester <br/><br/>
+together-zusammen <br/><br/>

@@ -1,0 +1,6 @@
+mother- la madre <br/><br/>
+father- el padre <br/><br/>
+childern- los hijos <br/><br/>
+classroom- el aula <br/><br/>
+board- la pizarra <br/><br/>
+desk- el pupitre

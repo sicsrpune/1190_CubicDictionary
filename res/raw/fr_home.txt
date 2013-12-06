@@ -1,0 +1,19 @@
+		MAISON<br/><br/>
+
+flat - l' appartement <br/><br/>
+house - la maison <br/><br/>
+room - la pi&egrave;ce <br/><br/>
+kitchen - la cuisine <br/><br/>
+bedroom - la chambre &agrave; coucher <br/><br/>
+bathroom - la salle de bains <br/><br/>
+living room - salon <br/><br/>
+toilet - les toilettes <br/><br/>
+to live - habiter <br/><br/>
+at home -  &agrave; la maison <br/><br/>
+dinning room - dinnig chambre <br/><br/>
+garden - jardin <br/><br/>
+terrace - terrasse <br/><br/>
+balcony - balcon <br/><br/>
+kids room - chambre des enfants <br/><br/>
+floor - &eacute;tage <br/><br/>
+stairs - escaliers

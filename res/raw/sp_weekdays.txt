@@ -1,0 +1,9 @@
+		D&Iacute; LABORABLE<br/><br/>
+
+sunday- lunes <br/><br/>
+monday- martes <br/><br/>
+tuesday- mi&eacute;rcoles <br/><br/>
+wednesday- jueves <br/><br/>
+thursday- viernes <br/><br/>
+friday- s&aacute;bado <br/><br/>
+saturday- domingo

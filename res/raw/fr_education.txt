@@ -1,0 +1,22 @@
+		&Eacute;DUCATION <br/><br/>
+
+classroom - la classe <br/><br/>
+board - le tableau <br/><br/>
+desk - le pupitre <br/><br/>
+rubber - la gomme <br/><br/>
+pen - le stylo <br/><br/>
+ruler - la r&egrave;gle <br/><br/>
+pencil sharpener - le taille-crayon <br/><br/>
+example - l' exemple <br/><br/>
+break - la r&eacute;c&eacute;ation <br/><br/>
+worksheet - la feuille d'exercise <br/><br/>
+unit - la le&ccedil;on <br/><br/>
+notebook - portable <br/><br/>
+map - carte <br/><br/>
+paper - papier <br/><br/>
+Tv - t&eacute;l&eacute;vision <br/><br/>
+Computer - Computer <br/><br/>
+Cd-player - Lecteur CD <br/><br/>
+video recorder - enregistreur vid&eacute;o <br/><br/>
+AC - AC
+

@@ -1,0 +1,22 @@
+		NOMBRE<br/><br/>
+
+1 - une <br/><br/>
+2 - deux <br/><br/>
+3 - trois <br/><br/>
+4 - quatre <br/><br/>
+5 - cinui&egrave;me <br/><br/>
+6 - six <br/><br/>
+7 - sept <br/><br/>
+8 - huit <br/><br/>
+9 - neuf <br/><br/>
+10 - dix <br/><br/>
+11 - onze <br/><br/>
+12 - douze <br/><br/>
+13 - treize <br/><br/>
+14 - quatorze <br/><br/>
+15 - quinze <br/><br/>
+16 - sizteen <br/><br/>
+17 - dix-sept <br/><br/>
+18 - dix-huit <br/><br/>
+19 - diz-neuf <br/><br/>
+20 - vingt

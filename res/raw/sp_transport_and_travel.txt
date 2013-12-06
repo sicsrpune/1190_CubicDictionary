@@ -1,0 +1,11 @@
+		TRANSPORTAR<br/><br/>
+travel-viajar <br/><br/>
+public transport- el trasnporte p&uacute;blico <br/><br/>
+bus- el autob&acute;s <br/><br/>
+train- el tren <br/><br/>
+train station- la estaci&oacute;n <br/><br/>
+ticket- el billete <br/><br/>
+platform- el and&eacute;n <br/><br/>
+passenger- el pasajero <br/><br/>
+stop- la parada <br/><br/>
+to stand- estar de pie

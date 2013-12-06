@@ -29,7 +29,7 @@ Vocabulary - Select a category to view the list of words belonging to that categ
 
 Listen - Enter a word and click on Listen to listen to the pronunciation.
 
-Contact (email id or mailing list link/google-group):- 
+Contact (email id or mailing list link/google-group):- gayatri.venugopal@sicsr.ac.in
 
 GNU GPL Version 3, 29 June 2007.
 
